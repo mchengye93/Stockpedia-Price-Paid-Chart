@@ -1,4 +1,4 @@
-# Robinhood - Price You Paid chart
+# Stockpedia- Price You Paid chart
 
 # CRUD
                         
